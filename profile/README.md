@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://ciagotech.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Ciago_Technologies_Icon_Dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/Ciago_Technologies_Icon.svg" />
+    <img alt="Ciago Technologies" src="./assets/Ciago_Technologies_Icon.svg" width="96" />
+  </picture>
+</a>
+
 # Ciago Technologies
 
 **Independent Systems Infrastructure & Engineering Lab**
