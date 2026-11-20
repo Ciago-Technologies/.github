@@ -1,0 +1,14 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tileGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#13233F"/>
+      <stop offset="100%" stop-color="#0FA99B"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="240" height="240" rx="52" fill="url(#tileGrad)"/>
+  <circle cx="120" cy="120" r="67" fill="none" stroke="#F5F8FC" stroke-width="26"
+          stroke-linecap="round"
+          stroke-dasharray="340.2 82.1"
+          stroke-dashoffset="-41"/>
+  <circle cx="199" cy="120" r="18" fill="#FFB13D"/>
+</svg>
