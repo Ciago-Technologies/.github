@@ -2,9 +2,9 @@
 
 <a href="https://ciagotech.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Ciago_Technologies_Icon_Dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/Ciago_Technologies_Icon.png" />
-    <img alt="Ciago Technologies" src="./assets/Ciago_Technologies_Icon.svg" width="96" />
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/Ciago_Technologies_Icon_Dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="../assets/Ciago_Technologies_Icon.png" />
+    <img alt="Ciago Technologies" src="../assets/Ciago_Technologies_Icon.png" width="96" />
   </picture>
 </a>
 
